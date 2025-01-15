@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhidoshi2000&label=Profile%20views&color=0e75b6&style=flat" alt="abhidoshi2000" /> </p>
 
-- 🔭 I’m currently working on **CollabEd Portal**
+- 🔭 I’m currently working on **Task Manager Application**
 
 - 🌱 I’m currently learning **Data Preprocessing using LLM**
 
